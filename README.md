@@ -10,7 +10,7 @@ I'm looking to learn more about: iOS Development, Cryptocurrency
 
 I swim with:
 
-<span style="background-color:white">
+<span style="background-color:green">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/java.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/c.svg" />
