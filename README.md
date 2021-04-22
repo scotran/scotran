@@ -4,9 +4,9 @@
   Nice to meet you! I'm Scott! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
 
-i'm currently working on: ** Blockchain, Deep Learning **
+i'm currently working on: **Blockchain, Deep Learning**
 
-i'm looking to learn more about: ** iOS Development, Cryptocurrency **
+i'm looking to learn more about: **iOS Development, Cryptocurrency**
 
 i swim with:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/java.svg" />
