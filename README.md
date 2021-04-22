@@ -9,12 +9,15 @@ I'm currently working on: Blockchain, Deep Learning
 I'm looking to learn more about: iOS Development, Cryptocurrency
 
 I swim with:
+
+<span style="background-color:white">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/java.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/c.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/mysql.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
+</span>
 
 I love dancing with:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/spring.svg" />
