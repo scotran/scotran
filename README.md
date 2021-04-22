@@ -1,10 +1,6 @@
-How are you doing?
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Scott!;Nice+to+meet+you!)](https://git.io/typing-svg)
-
-Hey!
-
-<!---
-scotran/scotran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  Oh hey! Fancy seeing you here - welcome to my abode!
+</h1>
+<h1 align="center">
+  Nice to meet you! I'm Scott!
+</h1>
