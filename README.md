@@ -25,7 +25,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/amazonaws.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/jupyter.svg" />
 
-
+<br>
 > Be who you are and say what you feel
 > 
 > because those who mind don't matter,
