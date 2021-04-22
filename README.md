@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey, I'm Scott!;Nice to meet you!)](https://git.io/typing-svg)
+How are you doing?
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Scott!;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+Hey!
 
 <!---
 scotran/scotran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
