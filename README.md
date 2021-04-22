@@ -8,7 +8,7 @@
 
 - I'm looking to learn more about: ** iOS Development, Cryptocurrency **
 
-I swim with:
+- I swim with:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/java.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/c.svg" />
@@ -16,7 +16,7 @@ I swim with:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
 
-I love dancing with:
+- I love dancing with:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/spring.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/tensorflow.svg" />
@@ -24,6 +24,7 @@ I love dancing with:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/scikit-learn.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/amazonaws.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/jupyter.svg" />
+
 
 > Be who you are and say what you feel
 > 
